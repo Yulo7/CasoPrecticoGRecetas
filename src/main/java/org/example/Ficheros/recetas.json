@@ -1,9 +1,5 @@
 [
   {
-    "usado": "Mostrar recetas",
-    "recetas": 4
-  },
-  {
     "usado": "Exportar recetas a XML",
     "recetas": 4
   }

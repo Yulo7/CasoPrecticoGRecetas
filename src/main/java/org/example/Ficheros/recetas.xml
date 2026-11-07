@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Catalogo>
     <Recetas>
-        <Receta id="1">
-            <Nombre>Croquetas de jamon</Nombre>
-            <Tiempo>40</Tiempo>
-        </Receta>
-        <Receta id="2">
-            <Nombre>macarrones con tomate</Nombre>
-            <Tiempo>20</Tiempo>
-        </Receta>
-        <Receta id="3">
-            <Nombre>Pizza</Nombre>
-            <Tiempo>20</Tiempo>
-        </Receta>
-        <Receta id="4">
-            <Nombre>Gazpacho</Nombre>
-            <Tiempo>10</Tiempo>
-        </Receta>
+        <Receta id="1"><Nombre>Croquetas de jamon</Nombre><Tiempo>40</Tiempo></Receta>
+        <Receta id="2"><Nombre>macarrones con tomate</Nombre><Tiempo>20</Tiempo></Receta>
+        <Receta id="3"><Nombre>Pizza</Nombre><Tiempo>20</Tiempo></Receta>
+        <Receta id="4"><Nombre>Sopa</Nombre><Tiempo>17</Tiempo></Receta>
     </Recetas>
 </Catalogo>
